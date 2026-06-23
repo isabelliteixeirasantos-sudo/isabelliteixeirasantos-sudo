@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou a Isabelli Maria Teixeira Santos
 
-<!--
-**isabelliteixeirasantos-sudo/isabelliteixeirasantos-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante do Colegio Linda Salamuni Bacila, sou do 1 ano B, estudo desde o 6 ano aqui. E no futuro pretendo fazer psicologia 
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Objetivos
+	## Eu sou o caminho a verdade e a vida
+## Contato
+- E-mail: isabelli.teixeira.santos@escola.pr.gov.br
