@@ -7,7 +7,8 @@ Sou estudante do Colegio Linda Salamuni Bacila, sou do 1 ano B, estudo desde o 6
 - CSS
 - JavaScript
 
-##Objetivos
+##Objetivos 
+meu objetivo é passar na psicologia e poder ajudar os meus clientes 
 	## Eu sou o caminho a verdade e a vida
 ## Contato
 - E-mail: isabelli.teixeira.santos@escola.pr.gov.br
